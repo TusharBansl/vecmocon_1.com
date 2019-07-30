@@ -169,11 +169,11 @@ return [
         /*
          * Application Service Providers...
          */
-        App\Providers\AppServiceProvider::class,
-        App\Providers\AuthServiceProvider::class,
-        // App\Providers\BroadcastServiceProvider::class,
-        App\Providers\EventServiceProvider::class,
-        App\Providers\RouteServiceProvider::class,
+        vecmocon\Providers\AppServiceProvider::class,
+        vecmocon\Providers\AuthServiceProvider::class,
+        // vecmocon\Providers\BroadcastServiceProvider::class,
+        vecmocon\Providers\EventServiceProvider::class,
+        vecmocon\Providers\RouteServiceProvider::class,
 
     ],
 
