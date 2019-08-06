@@ -18,7 +18,6 @@
       <ul class="nav navbar-nav">
       <!-- recursive loops -->
       <li class="active"><a class="btn btn-lg nav-link" href="">{{ $item }}</a></li>
-      
       <ul>
       @endif
     @endforeach
