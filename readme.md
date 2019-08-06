@@ -14,3 +14,23 @@ terms of use
 copyright
 
 
+-------------------------------------
+REF
+_____________________________________
+
+navigation bar
+
+header
+.
+cards
+.
+.
+.
+.
+.
+footer
+
+-----------------------------
+system
+-----------------------------
+config files will tell you about the content and structure of the entire website.
