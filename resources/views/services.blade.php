@@ -1,5 +1,5 @@
 @extends('layout.master',[
-  
+  'title' => 'services'
   ])
   
   @section('content')

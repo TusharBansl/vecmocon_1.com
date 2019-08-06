@@ -16,8 +16,8 @@ Route::get('/ecosystem/motorcontroller', 'siteController@motorcontroller')->name
 Route::get('/ecosystem/bms', 'siteController@bms')->name('bms');
 Route::get('/ecosystem/ivec', 'siteController@ivec')->name('ivec');
 Route::get('/ecosystem/services', 'siteController@services')->name('services');
-Route::get('/associates/team', 'siteController@team')->name('team');
-Route::get('/associates/partner', 'siteController@partner')->name('partner');
-Route::get('/contact', 'siteController@cotact')->name('contact');
+Route::get('/associates', 'siteController@associates')->name('associates');
+Route::get('/team', 'siteController@team')->name('team');
+Route::get('/contact', 'siteController@contact')->name('contact');
 
 

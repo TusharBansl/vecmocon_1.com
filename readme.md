@@ -7,9 +7,10 @@ navigation site map
     i-vec
     services
 3 associates
-    team
-    partners
-4 contact
+4 team
+5 contact
 privacy policy
 terms of use
 copyright
+
+

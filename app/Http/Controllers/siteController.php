@@ -31,16 +31,18 @@ class siteController extends Controller
             
         ]);
     }
+    public function associates(){
+        return view( 'associates',[
+            
+        ]);
+    }
+
     public function team(){
         return view('team',[
             
         ]);
     }
-    public function partner(){
-        return view( 'partner',[
-            
-        ]);
-    }
+    
     public function contact(){
         return view('contact',[
             
