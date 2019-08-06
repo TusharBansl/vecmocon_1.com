@@ -4,7 +4,7 @@
 
 @section('content')
 @include('sections.navigation', [
-  'data' => Config('site.setting.nav')
+  'data' => Config('site.nav.nav1')
 ])
 
 

@@ -3,5 +3,7 @@
   ])
   
   @section('content')
-  @include('sections.navigation')
+  @include('sections.navigation',[
+    'data' => Config('site.setting.nav')
+    ])
   @endsection
